@@ -2,7 +2,8 @@
 title: United Nations Charter
 ---
 # United Nations Charter
-Signed on June 26, 1945
+Signed on June 26, 1945  
+[Original doc](https://www.un.org/en/about-us/un-charter/full-text)  
 
 ## Preamble
 
